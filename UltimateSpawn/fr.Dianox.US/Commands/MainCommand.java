@@ -60,3 +60,4 @@ public class MainCommand implements CommandExecutor {
 		}
 		return true;
 	}
+}
